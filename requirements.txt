@@ -6,3 +6,5 @@ plotly
 flask
 gdown
 streamlit
+scikit-learn
+joblib
